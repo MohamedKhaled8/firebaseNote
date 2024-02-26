@@ -1,0 +1,6 @@
+package com.example.flutterfire
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
